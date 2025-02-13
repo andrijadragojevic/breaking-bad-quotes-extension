@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Breaking Bad Quotes - Get Random BB Quotes Instantly!",
+    "version": "1.0",
+    "description": "Get a fresh, iconic quote from Walter White, Jesse Pinkman, and other Breaking Bad characters every time you open the extension!",
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "icon.png"
+    }
+  }
