@@ -35,3 +35,10 @@ button:hover {
     font-size: 0.95rem;
     font-family: "Dancing Script", serif;
 }
+
+.merch-info {
+    font-size: 0.75rem;
+    color: #bbb;
+    margin-top: 10px;
+    font-style: italic;
+}
